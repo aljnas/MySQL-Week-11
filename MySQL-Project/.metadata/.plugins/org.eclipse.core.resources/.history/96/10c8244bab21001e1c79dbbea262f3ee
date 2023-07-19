@@ -1,0 +1,16 @@
+package projects;
+
+import java.sql.Connection;
+import java.util.List;
+import java.util.Scanner;
+public class ProjectsApp {
+	 private Scanner scanner = new Scanner(System.in);
+	
+	public static void main (String[] args) {
+
+	    //@formatter:off
+		private List<String> operations = List.of(
+				"1) Add a project"
+				);
+}
+}
